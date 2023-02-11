@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 100%" />
+<img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=1380&t=st=1676153297~exp=1676153897~hmac=b68bce476909977c7cd1578b5b9093b962eaf1dea8c8b90bb4889ff1a5c47b68" align="right" style="width: 100%" />
 </div>  
   
 
