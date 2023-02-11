@@ -1,9 +1,9 @@
-<div align="right">
-<img src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" align="right" style="width: 100%" />
-</div>  
+
+
+ 
   
 
-### <div align="center">I'm Dulana Induwara, a UI UX Designer</div>  
+
   
 
 - 🔭 I’m currently working on GNN Super Layers  
